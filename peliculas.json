@@ -1,0 +1,56 @@
+[
+  {
+    "titulo": "A Ghost Story",
+    "genero": "Drama",
+    "anio": 2017,
+    "valoracion": 8
+  },
+  {
+    "titulo": "Interestelar",
+    "genero": "Ciencia Ficción",
+    "anio": 2014,
+    "valoracion": 10
+  },
+  {
+    "titulo": "All of Us Strangers",
+    "genero": "Drama",
+    "anio": 2023,
+    "valoracion": 9
+  },
+  {
+    "titulo": "Memento",
+    "genero": "Thriller",
+    "anio": 2000,
+    "valoracion": 9
+  },
+  {
+    "titulo": "Anatomy of a Fall",
+    "genero": "Drama",
+    "anio": 2023,
+    "valoracion": 8
+  },
+  {
+    "titulo": "A Different Man",
+    "genero": "Drama",
+    "anio": 2024,
+    "valoracion": 7
+  },
+  {
+    "titulo": "Girl, Interrupted",
+    "genero": "Drama",
+    "anio": 1999,
+    "valoracion": 8
+  },
+  {
+    "titulo": "Aftersun",
+    "genero": "Drama",
+    "anio": 2022,
+    "valoracion": 9
+  },
+  {
+    "titulo": "Passages",
+    "genero": "Drama",
+    "anio": 2023,
+    "valoracion": 7
+  }
+]
