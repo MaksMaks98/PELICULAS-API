@@ -11,7 +11,9 @@ API REST en Node.js y MongoDB para registrar y valorar películas vistas. Incluy
 La base `peliculasdb` y la colección `peliculas` se crean automáticamente.  
 El servidor precarga películas desde `peliculas.json` solo si la colección está vacía.
 
-
+## Información técnica
+Node.js versión: v22.17.1
+MongoDB versión: 8.0.12
 ---
 
 ## Endpoints
